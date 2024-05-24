@@ -18,11 +18,15 @@ The game field is a 10x10 grid. Rows are labeled A to J, and columns are labeled
 
 Each player has the following ships to place:
 
-1 Aircraft Carrier (5 cells)
-1 Battleship (4 cells)
-1 Submarine (3 cells)
-1 Cruiser (3 cells)
-1 Destroyer (2 cells)
+*1 Aircraft Carrier (5 cells)*
+
+*1 Battleship (4 cells)*
+
+*1 Submarine (3 cells)*
+
+*1 Cruiser (3 cells)*
+
+*1 Destroyer (2 cells)*
 
 ***4. Example of Ship Placement***
 
